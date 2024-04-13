@@ -36,7 +36,7 @@ At every step, additional text is inserted to force ChatGPT to engage in this fo
 
 
 ### Aren't you worried this will escape the sandbox?
-After a ot of experimentation, I don't think ChatGPT is able to do this. It fails at complex tasks. But we need to think about what happens with the next version... Let this be a reminder, it's inevitable if these models are continued, right? Alignment seems to become more and more important.
+After a lot of experimentation, I don't think ChatGPT is able to do this. It fails at complex tasks. But we need to think about what happens with the next version... Let this be a reminder, it's inevitable if these models are continued, right? Alignment seems to become more and more important.
 
 ## Limitations/Failure Cases:
 - ChatGPT confabulates terminal output
